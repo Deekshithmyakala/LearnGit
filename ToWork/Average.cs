@@ -8,5 +8,5 @@ namespace ArithmeticPractice
         {
             return (a + b) / 2.0;
         }
-    }
+    } //
 }
